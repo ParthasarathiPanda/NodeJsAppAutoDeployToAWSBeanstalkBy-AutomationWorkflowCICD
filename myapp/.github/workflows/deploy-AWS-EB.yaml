@@ -23,5 +23,5 @@ jobs:
         application_name: Mapp3
         environment_name: App3-env
         version_label: v1.1
-        region: 
+        region: ap-south-1
         deployment_package: deploy.zip
